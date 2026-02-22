@@ -14,12 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Intermobs is a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Viral storms, cancel swarms, trend avalanches, collective delusions -- all captured, dissected, remixed.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Intermobs isn't a studio or a blog — it's a lens on the living organism we call the internet.   Every day, millions of people form temporary tribes: hype trains, outrage mobs, niche cults, flash communities. They create culture in seconds, destroy reputations in minutes, birth memes that outlive us all. Here we collect the patterns, the psychology, the absurdity. We turn swarm behavior into visuals, stories, experiments. Sometimes we just sit back and watch the chaos unfold in real time.  No gatekeeping. No moralizing. Just raw fascination with how the crowd thinks, feels, and moves as one.
+      Join the observation deck.
     styles:
       self:
         height: auto
