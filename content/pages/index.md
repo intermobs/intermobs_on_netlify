@@ -14,12 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Viral storms, cancel swarms, trend avalanches, collective delusions -- all captured, dissected, remixed.
+      Viral storms, trend avalanches & collective delusions -- all captured.
     subtitle: >-
-      Intermobs isn't a studio or a blog — it's a lens on the living organism we call the internet.   
-      Join the observation deck.
-    paragraph: >-
-      Every day, millions of people form temporary tribes: hype trains, outrage mobs, niche cults, flash communities. They create culture in seconds, destroy reputations in minutes, birth memes that outlive us all. Here we collect the patterns, the psychology, the absurdity. We turn swarm behavior into visuals, stories, experiments. Sometimes we just sit back and watch the chaos unfold in real time.  No gatekeeping. No moralizing. Just raw fascination with how the crowd thinks, feels, and moves as one.
+      Intermobs isn't just a blog — it's a lens on the living organism we call the internet. Every day, millions of people form temporary tribes: hype trains, outrage mobs, niche cults, flash communities. They create culture in seconds, destroy reputations in minutes, birth memes that outlive us all. Here we collect the patterns, the psychology, the absurdity. We turn swarm behavior into visuals, stories, experiments. Sometimes we just sit back and watch the chaos unfold in real time.  No gatekeeping. No moralizing. Just raw fascination with how the crowd thinks, feels, and moves as one.
     styles:
       self:
         height: auto
@@ -130,7 +127,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Wanna Join? You're Welcome...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
