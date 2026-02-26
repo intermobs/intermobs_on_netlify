@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Viral storms, trend avalanches & collective delusions -- all captured.
+      Internet never sleeps.
     subtitle: >-
-      Intermobs isn't just a blog — it's a lens on the living organism we call the internet. Every day, millions of people form temporary tribes: hype trains, outrage mobs, niche cults, flash communities. They create culture in seconds, destroy reputations in minutes, birth memes that outlive us all. Here we collect the patterns, the psychology, the absurdity. We turn swarm behavior into visuals, stories, experiments. Sometimes we just sit back and watch the chaos unfold in real time.  No gatekeeping. No moralizing. Just raw fascination with how the crowd thinks, feels, and moves as one.
+      The internet is alive with mobs — viral tribes, outrage storms, meme armies, flash collectives. They shape culture in hours, destroy reputations in minutes, birth movements overnight.
     styles:
       self:
         height: auto
