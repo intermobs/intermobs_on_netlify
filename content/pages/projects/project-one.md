@@ -1,11 +1,11 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Internet Roadtrip
 colors: colors-a
-date: '2021-10-15'
+date: '2026-02-25'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Let me tell you briefly about the viral Intenet Roadtrip project okay, :) ? Just simple short facts then you are free to do your own research bla bla bla.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
@@ -16,14 +16,14 @@ media:
   altText: Project image
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+One of the most talked-about online social experiments of 2025–2026 is Internet Roadtrip, a collective navigation project launched by creator Neal Agarwal. In this interactive web experience, thousands of users around the globe participate simultaneously by voting on every move a virtual car should take on Google Street View. Participants choose directions, honk the horn, or even switch the radio — turning what could have been a simple browser game into a massive real-time communal journey.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+What makes Internet Roadtrip stand out is its blending of collaboration with unpredictability. Unlike many online games where individual performance dictates success, this project thrives on consensus, chaos, and the collective whims of a large, anonymous audience. The result? A winding, often hilarious path through digital maps that can feel like a modern version of Twitch Plays Pokémon meets virtual tourism.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+> “The internet never forgets.”
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Along the way, the community has organically built stories, memes, and camaraderie around the expedition — sometimes rallying around destinations or themes suggested by users. Because every “vote” counts, even the smallest group can steer the momentum, making engagement more about shared creativity than competition. Audiences have kept their eyes on the live path map, turning this simple browser project into a trend that’s frequently shared on Reddit, TikTok, and Discord channels.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+As the project continues to evolve, Internet Roadtrip showcases an important historic shift in how internet users interact with online experiences. It proves that when a simple idea meets mass participation, something viral — communal, chaotic, and fun — can emerge from a browser window rather than a mobile app or major gaming platform.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Very CRAAAAAZY.
