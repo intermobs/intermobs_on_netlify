@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Intermobs | Where the Internet Moves Together
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -14,9 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Internet never sleeps.
+      The Internet Moves in Mobs.
     subtitle: >-
-      The internet is alive with mobs — viral tribes, outrage storms, meme armies, flash collectives. They shape culture in hours, destroy reputations in minutes, birth movements overnight.
+      Intermobs explores viral culture, digital tribes, AI-driven trends, and collective internet movements. From meme waves to online experiments, we analyze how communities shape the web in real time.
     styles:
       self:
         height: auto
@@ -43,10 +43,18 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    actions: []
+    actions:
+      - type: Link
+        label: Explore Trends
+        url: /blog
+      - type: Link
+        label: View Projects
+        url: /projects
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
+    subtitle: Digital Experiments & Viral Projects
     actions:
       - type: Link
         label: See all projects
@@ -81,16 +89,16 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
     variant: variant-d
-    subtitle: Featured Posts
+    subtitle: Viral Culture Insights
     showFeaturedImage: false
     actions:
       - type: Link
-        label: See all posts
+        label: See all insights
         url: /blog
     posts:
       - content/pages/blog/post-six.md
@@ -124,10 +132,13 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Wanna Join? You're Welcome...\U0001F4AC"
+    title: "Join the Movement 💬"
+    text: >-
+      Stay ahead of viral trends, AI breakthroughs, and emerging digital movements. Subscribe to receive curated insights from Intermobs.
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -149,23 +160,16 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: Email Address
           isRequired: true
-          width: 1/2
+          width: full
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: updatesConsent
-          label: Sign me up to recieve updates
+          label: I agree to receive updates about trends and projects
           isRequired: false
           width: full
           type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Subscribe 🚀"
       styles:
         submitLabel:
           textAlign: center
