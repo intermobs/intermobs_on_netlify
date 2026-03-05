@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: About Intermobs
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -14,14 +14,17 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Sanibonani boNkhosi ninjani. Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## Sanibonani 👋🏾
+
+      I’m the creator behind **Intermobs** — a computer science graduate and tech-driven creative exploring how the internet moves in collective waves.
+
+      Intermobs is a digital observatory focused on viral culture, AI-powered trends, collaborative online experiments, and the psychology of digital tribes. I analyze how internet communities form, amplify ideas, and shape modern culture in real time.
+
+      When I’m not building with code or analyzing digital behavior, I’m experimenting with AI tools, editing visuals, and exploring emerging tech shaping the next generation of the web.
     media:
       type: ImageBlock
       url: /images/about.jpg
-      altText: Hero image
+      altText: Intermobs creator portrait
     styles:
       self:
         height: auto
@@ -46,6 +49,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+
   - type: DividerSection
     styles:
       self:
@@ -58,39 +62,127 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
+
+  - type: TextSection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
+    subtitle: "What Intermobs Is About"
+    text: |
+      Intermobs exists to explore how collective internet behavior shapes today’s digital world.
+
+      From AI assistants going viral, to pixel wars, to social media flash movements — this platform studies the mechanics behind virality.
+
+      Instead of just reporting trends, Intermobs breaks down:
+      - Why something spreads
+      - How algorithms amplify it
+      - What digital tribes form around it
+      - And what it means for the future of online culture
+
+  - type: DividerSection
     styles:
       self:
         width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Core Skills:'
+    items:
+      - type: Label
+        label: Web Development
+      - type: Label
+        label: React
+      - type: Label
+        label: Next.js
+      - type: Label
+        label: TypeScript
+      - type: Label
+        label: Netlify
+      - type: Label
+        label: Python
+      - type: Label
+        label: AI Tools & Automation
+      - type: Label
+        label: Digital Media Editing
+      - type: Label
+        label: Graphic Design
+      - type: Label
+        label: Video Editing
+
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        subtitle: 'Experience'
+        text: |-
+          **Current**
+
+          * Founder & Creator — Intermobs  
+          * Freelance Developer & Digital Strategist  
+
+          **Previous**
+
+          * Full-Stack Development Projects  
+          * Independent Creative & Media Work  
+
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+
+      - type: FeaturedItem
+        subtitle: 'Education'
+        text: |-
+          **Bachelor’s Degree — Computer Science**
+
+          Strong foundation in:
+          * Algorithms & Data Structures  
+          * Software Engineering  
+          * Web Technologies  
+          * Systems & Architecture  
+
+          **Graphic Design Certification**
+
+          Focused on digital storytelling, branding, and creative media.
+        styles:
+          self:
+            textAlign: left
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+
+    columns: 2
+    spacingX: 60
+    spacingY: 60
+    styles:
+      self:
         height: auto
+        width: wide
         padding:
           - pt-8
           - pb-8
@@ -101,24 +193,23 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
+
   - type: DividerSection
     styles:
       self:
         width: wide
         padding:
-          - pt-8
-          - pb-8
+          - pt-12
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+
   - type: FeaturedItemsSection
     colors: colors-f
+    subtitle: 'Find Intermobs Online'
     items:
       - type: FeaturedItem
         actions:
@@ -128,14 +219,7 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
+
       - type: FeaturedItem
         actions:
           - type: Link
@@ -144,22 +228,16 @@ sections:
         styles:
           self:
             textAlign: left
+
       - type: FeaturedItem
         actions:
           - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+            label: Twitter / X
+            url: 'https://twitter.com/'
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
+
       - type: FeaturedItem
         actions:
           - type: Link
@@ -168,28 +246,20 @@ sections:
         styles:
           self:
             textAlign: left
+
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Discord
+            url: 'https://discord.com/'
+        styles:
+          self:
+            textAlign: left
+
     columns: 3
     spacingX: 120
     spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
+
   - type: DividerSection
     styles:
       self:
@@ -202,156 +272,16 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: React
-      - type: Label
-        label: Microsoft Office
-      - type: Label
-        label: Next.js
-      - type: Label
-        label: Netlify
-      - type: Label
-        label: Python
-      - type: Label
-        label: C++
-      - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [intermobsinc@gmail.com](mailto:intermobsinc@gmail.com)
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        subtitle: 'Experience:'
-        text: |-
-          **Current**
 
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-      - type: FeaturedItem
-        subtitle: 'Education:'
-        text: |-
-          **2016-2019**
-
-          * ba computer sciense at ECOT
-
-          **2015**
-
-          * SGCSE at BUHS
-
-          **2011**
-
-          * my highschool
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-    columns: 2
-    spacingX: 60
-    spacingY: 60
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Let’s Build Something Viral 🚀"
     colors: colors-f
+    text: >-
+      Interested in collaboration, AI experiments, or digital culture research? Let’s connect.
     form:
       type: FormBlock
-      elementId: sign-up-form
+      elementId: contact-form
       fields:
         - name: firstName
           label: First Name
@@ -370,45 +300,19 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Email
+          placeholder: Email Address
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about your idea or project
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Send Message 🚀"
       styles:
         submitLabel:
           textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
