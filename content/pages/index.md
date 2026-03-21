@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Intermobs | Where the Internet Moves Together
+title: Intermobs
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      The Internet Moves in Mobs.
+      The Internet Mobs.
     subtitle: >-
       Intermobs explores viral culture, digital tribes, AI-driven trends, and collective internet movements. From meme waves to online experiments, we analyze how communities shape the web in real time.
     styles:
