@@ -27,10 +27,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/intermobs",
-                "icon": "twitter"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://instagram.com/intermobs",
+                "icon": "instagram"
             },
             {
                 "type": "Social",
@@ -77,17 +77,17 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/intermobs/",
+                "altText": "Intermobs Github"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "268-7676-5021",
-            "phoneAltText": "My phone number",
+            "phoneNumber": "268-79470021",
+            "phoneAltText": "Intermobs phone number",
             "email": "intermobsinc@gmail.com",
-            "emailAltText": "My email",
+            "emailAltText": "Intermobs email",
             "address": "Ekhaya kaNgwane, Ekhaya kaGogo, 123456",
             "addressAltText": "My address"
         },
